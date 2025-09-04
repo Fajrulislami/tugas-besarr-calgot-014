@@ -1,0 +1,25 @@
+{
+	"drinks": [
+		{
+			"id": 1,
+			"name": "Es Teh Manis",
+			"price": 5000,
+			"image": "images/drink1.jpg",
+			"alt": "Es Teh"
+		},
+		{
+			"id": 2,
+			"name": "Kopi Hitam",
+			"price": 10000,
+			"image": "images/drink2.jpg",
+			"alt": "Kopi"
+		},
+		{
+			"id": 3,
+			"name": "Jus Jeruk",
+			"price": 8000,
+			"image": "images/drink3.jpg",
+			"alt": "Jus"
+		}
+	]
+}
